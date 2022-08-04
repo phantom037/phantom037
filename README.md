@@ -66,19 +66,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://dlmocha.com" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/bubbles/100/000000/domain.png" alt="trungquandev-blog" />
+    <img src="https://img.icons8.com/bubbles/100/000000/domain.png" />
   </a>
   <a href="https://www.facebook.com/dat.tranthanh.1671/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
   </a>
   <a href="https://www.youtube.com/channel/UCxSyPBJswq6Z4ak3Aoou52g" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" />
   </a>
   <a href="https://www.linkedin.com/in/thanh-dat-tran-82350220a/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
   </a>
   <a href="https://www.instagram.com/leotrn9x/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
   </a>
   <a href="mailto:dattran1809@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
