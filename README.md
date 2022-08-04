@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://dlmocha.com" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/domain.png" />
+    <img src="https://img.icons8.com/bubbles/100/000000/this-pc.png" />
   </a>
   <a href="https://www.facebook.com/dat.tranthanh.1671/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
@@ -81,7 +81,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
   </a>
   <a href="mailto:dattran1809@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" />
   </a>
 </div>
 
