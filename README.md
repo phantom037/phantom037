@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/phantom037" width="1200" alt="Leo Tran" />
+  <img src="svg/phantom037.svg" width="1200" alt="Leo Tran" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
