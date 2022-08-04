@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- Leo Tran -->
 <a href="#" target="_blank">
   <img src="svg/phantom037.svg" width="1200" alt="Leo Tran" />
 </a>
