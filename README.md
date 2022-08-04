@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://dlmocha.com" target="blank">
-    <img width="90" height="90" src="https://dlmocha.com/DL.jpg" alt="trungquandev-blog" />
+    <img width="90" height="90" src="https://img.icons8.com/bubbles/100/000000/domain.png" alt="trungquandev-blog" />
   </a>
   <a href="https://www.facebook.com/dat.tranthanh.1671/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
