@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/thanh-dat-tran-82350220a/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
   </a>
-  <a href="https://www.instagram.com/leotrn9x/" target="blank">
+  <a href="https://www.instagram.com/leotran9x/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
   </a>
   <a href="mailto:dattran1809@gmail.com" target="top">
