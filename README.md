@@ -43,18 +43,9 @@
 
 ### 🛠️ About Me  
 - 🔭 I’m currently working on **Spring Boot microservices & Flutter apps**  
-- 🌱 Learning **Go, PySpark, and AI development**  
-- 💡 Interested in **Site Reliability Engineering (SRE) & Cloud Computing**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-profile/) | [GitHub](https://github.com/yourusername)  
-
-### 📊 GitHub Stats  
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-
-### 🏆 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-
-### ✨ Fun Fact  
-🎵 I’m also building **Palpitate**, a music streaming app!  
+- 🌱 Learning **Go, and AI development**  
+- 💡 Interested in **Software Engineering / Development & Cloud Computing**  
+ 
 
 
 
