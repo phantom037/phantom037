@@ -2,17 +2,15 @@
 <a href="#" target="_blank">
   <img src="svg/phantom037.svg" width="1200" alt="Leo Tran" />
 </a>
+# Hi there, I'm Leo! 👋  
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="phantom037">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom037&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+🚀 **Software Engineer | DevOps Enthusiast | AI Learner**  
 
-<br>
+### 🛠️ About Me  
+- 🔭 I’m currently working on **Spring Boot microservices & Flutter apps**  
+- 🌱 Learning **Go, and AI development**  
+- 💡 Interested in **Software Engineering / Development & Cloud Computing**  
+
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -36,15 +34,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" />
   </a>
 </div>
-
-# Hi there, I'm Leo! 👋  
-
-🚀 **Software Engineer | DevOps Enthusiast | AI Learner**  
-
-### 🛠️ About Me  
-- 🔭 I’m currently working on **Spring Boot microservices & Flutter apps**  
-- 🌱 Learning **Go, and AI development**  
-- 💡 Interested in **Software Engineering / Development & Cloud Computing**  
  
 
 
