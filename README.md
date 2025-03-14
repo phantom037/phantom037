@@ -5,14 +5,10 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="phantom037">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom037&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="phantom037">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=phantom037&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -40,5 +36,25 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" />
   </a>
 </div>
+
+# Hi there, I'm Leo! 👋  
+
+🚀 **Software Engineer | DevOps Enthusiast | AI Learner**  
+
+### 🛠️ About Me  
+- 🔭 I’m currently working on **Spring Boot microservices & Flutter apps**  
+- 🌱 Learning **Go, PySpark, and AI development**  
+- 💡 Interested in **Site Reliability Engineering (SRE) & Cloud Computing**  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-profile/) | [GitHub](https://github.com/yourusername)  
+
+### 📊 GitHub Stats  
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+### 🏆 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+
+### ✨ Fun Fact  
+🎵 I’m also building **Palpitate**, a music streaming app!  
+
 
 
